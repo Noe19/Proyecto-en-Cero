@@ -1,0 +1,7 @@
+{
+  "name": "examenrepa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
